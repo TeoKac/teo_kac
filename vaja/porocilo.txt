@@ -1,1 +1,2 @@
 1. Pred shranjevanjem so imele vse datoteke status "Unknown"
+2. Pred shranjevanjem so imele vse datoteke status "Modified"
